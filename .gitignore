@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 faiss_index/
+vectorstore/
 pdfs/
 task1_temp.csv
 *.zip
