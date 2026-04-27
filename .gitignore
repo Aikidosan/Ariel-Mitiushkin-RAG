@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+faiss_index/
+pdfs/
+task1_temp.csv
+*.zip
