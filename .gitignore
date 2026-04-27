@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 faiss_index/
 vectorstore/
+faiss_chunk500/
 pdfs/
 task1_temp.csv
 *.zip
